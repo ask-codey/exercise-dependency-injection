@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MovieNight/MovieNight.csproj" />
+  <Project Path="MovieNight.Tests/MovieNight.Tests.csproj" />
+</Solution>
