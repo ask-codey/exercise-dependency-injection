@@ -27,3 +27,7 @@ Run the program with **Ctrl+F5**, and the tests with **Test > Run All Tests** (o
 - `HashSet.Add` and `HashSet.Remove` return whether they changed anything. That answers half the requirements by itself.
 - The tests pass a fake clock that's always 2 PM or 7 PM, and a fake price list. That only works if `BoxOffice` uses what it's given.
 - `TryDequeue` and `TryPop` return `false` when there's nothing left, instead of throwing.
+
+## Hand it in
+
+When it works, push your solution to a public repo of your own on GitHub, then paste that repo's address into **Submit your exercise** on the lesson page at [ask-codey.com](https://www.ask-codey.com). That's what completes the lesson. The lesson page shows the Git commands, step by step.
