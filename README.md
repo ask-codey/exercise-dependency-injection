@@ -1,6 +1,6 @@
-# Practice: Dependency Injection
+# Exercise: Dependency Injection
 
-Practice code for the lesson **Practice: Dependency Injection** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
+Exercise code for the lesson **Exercise: Dependency Injection** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
 
 A small cinema needs a box office for its movie nights: ticket prices that change with the time of day, seats that can only be sold once, a waiting list for a full house, and an undo for the sale the cashier didn't mean to make. You'll write the `BoxOffice` class.
 
